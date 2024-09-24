@@ -1,0 +1,20 @@
+body {
+  background-image: url(Dystopia\ Backrground.jpg) ;
+}
+.heading {
+  text-align: center;
+}
+h1 {color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 440%;}
+h2 {color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 300%;
+}
+h3 {color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 250%;
+}
+
+
+   

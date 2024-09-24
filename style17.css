@@ -1,0 +1,23 @@
+body {
+    background-image: url(Dystopia\ Backrground\ 4.jpg) ;
+}
+
+.triangle-down {
+    width: 20;
+    height: 20;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid rgb(68, 126, 126);
+  }
+  .triangle-down:hover {background-color: rgb(220, 20, 20);
+}
+.heading {text-align: start;}
+h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+}
+h2 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+h3 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}

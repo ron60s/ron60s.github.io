@@ -1,0 +1,38 @@
+body {
+    background-image: url(Dystopia\ Backrground.jpg) ;
+    .heading {
+        text-align: center;
+      }
+      h1 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 400%;}
+      h2 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 250%;
+      }
+      h3 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 200%;
+      }
+      h4 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: xx-large;
+    }
+      h5 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 150%;
+      }
+      h6 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 150%;
+    }
+      h7 {color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: large;
+    }
+    .starburst {
+        width: 200px; /* adjust to control the size */
+        aspect-ratio: 1;
+        clip-path: polygon(100% 50%,56.76% 51.81%,93.3% 75%,54.95% 54.95%,75% 93.3%,51.81% 56.76%,50% 100%,48.19% 56.76%,25% 93.3%,45.05% 54.95%,6.7% 75%,43.24% 51.81%,0% 50%,43.24% 48.19%,6.7% 25%,45.05% 45.05%,25% 6.7%,48.19% 43.24%,50% 0%,51.81% 43.24%,75% 6.7%,54.95% 45.05%,93.3% 25%,56.76% 48.19%);
+      }
+      

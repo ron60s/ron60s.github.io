@@ -1,0 +1,29 @@
+body {
+    background-image: url(Dystopia\ Backrground\ 3.jpg) ;
+}
+
+.circle {
+    width: 300px;
+    height: 300px;
+    background: rgb(31, 4, 4);
+    border-radius: 50%
+  }
+  .circle:hover {background-color: rgb(220, 117, 20);}
+
+  .heading {text-align: start;}
+   h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: 310%;
+}
+   h2 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: xx-large;
+}
+   h3 {font-family: Arial, Helvetica, sans-serif;
+       font-size: large;
+}
+   h4 {font-family: Arial, Helvetica, sans-serif;
+       font-size: large;}
+   h5 {font-family: Arial, Helvetica, sans-serif;
+       font-size: large; }
+   h6 {font-family: Arial, Helvetica, sans-serif;
+       font-size: large;}   
+   
